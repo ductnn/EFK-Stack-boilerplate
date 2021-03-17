@@ -1,1 +1,1 @@
-## [View more](https://ductnn.github.io/EFK-stack-on-Kubernetes.html)
+## [View more](https://ductn.info/EFK-stack-on-Kubernetes/)
