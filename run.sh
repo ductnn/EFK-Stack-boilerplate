@@ -1,3 +1,6 @@
+set -a
+source .env
+
 # ES
 # kubectl create -f kube-logging.yaml
 # kubectl create -f elastic-service.yaml
