@@ -1,8 +1,8 @@
 # EFK Stack boilerplate
 
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://github.com/ductnn/EFK-Stack-boilerplate/blob/main/LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ductnn/EFK-Stack-boilerplate/pulls)
 
 ## Quick start
 
